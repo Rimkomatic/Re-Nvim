@@ -1,9 +1,32 @@
-# revim/
+
+# ReNVim
 
 <a href="https://dotfyle.com/Rimkomatic/revim"><img src="https://dotfyle.com/Rimkomatic/revim/badges/plugins?style=flat" /></a>
 <a href="https://dotfyle.com/Rimkomatic/revim"><img src="https://dotfyle.com/Rimkomatic/revim/badges/leaderkey?style=flat" /></a>
 <a href="https://dotfyle.com/Rimkomatic/revim"><img src="https://dotfyle.com/Rimkomatic/revim/badges/plugin-manager?style=flat" /></a>
 
+
+Welcome to revim, a custom Neovim configuration aimed at providing a powerful and efficient environment for development. This configuration is designed with performance and extensibility in mind, making use of modern Neovim features and plugins to optimize the workflow. Whether you're a developer, data scientist, or a casual user, revim is built to streamline your coding experience.
+
+### Key Features
+- **Modular Configuration:** Clean and easy-to-understand structure for easy customization and updates.
+
+- **Optimized Workflow:** Performance-focused setup with handpicked plugins for an enhanced Neovim experience.
+
+- **Easy Installation:** Set up your Neovim environment in no time with simple steps.
+
+Feel free to explore and customize this setup to fit your personal development needs!
+
+## Preview
+![App Screenshot](https://i.imgur.com/p2C2heE.png)
+Smooth File navigation with oil 
+![App Screenshot](https://i.imgur.com/RhP8TKN.png)
+Ease while working with Git 
+![App Screenshot](https://i.imgur.com/kBFbOXQ.png)
+Add your favourite AI Assistant 
+![App Screenshot](https://i.imgur.com/Xxqhz9h.png)
+Theme change with ease
+![App Screenshot](https://i.imgur.com/8MRY1i7.png) 
 
 ## Install Instructions
 
